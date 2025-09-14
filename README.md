@@ -27,14 +27,12 @@ cd react-phone-catalog
 npm install
 # or
 yarn install
-
 ```
 ### 3. Run the project locally:
 ```
 npm start
 # or
 yarn start
-
 ```
 ---
 
